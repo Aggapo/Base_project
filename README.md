@@ -52,11 +52,6 @@ Database connection (defined in etl_load.py):
 
 postgresql+psycopg2://postgres:postgres@localhost:5432/gdsc
 
-Default credentials:
-
-    user: postgres
-    password: postgres
-
 Run the ETL pipeline from the project directory:
 
 python etl_load.py
